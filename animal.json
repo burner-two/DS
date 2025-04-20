@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Lion",
+      "type": "Mammal",
+      "habitat": "Savannah",
+      "diet": "Carnivore",
+      "lifespan_years": 12
+    },
+    {
+      "id": 2,
+      "name": "Elephant",
+      "type": "Mammal",
+      "habitat": "Forest",
+      "diet": "Herbivore",
+      "lifespan_years": 60
+    },
+    {
+      "id": 3,
+      "name": "Cobra",
+      "type": "Reptile",
+      "habitat": "Rainforest",
+      "diet": "Carnivore",
+      "lifespan_years": 20
+    },
+    {
+      "id": 4,
+      "name": "Penguin",
+      "type": "Bird",
+      "habitat": "Antarctica",
+      "diet": "Carnivore",
+      "lifespan_years": 15
+    },
+    {
+      "id": 5,
+      "name": "Kangaroo",
+      "type": "Mammal",
+      "habitat": "Grassland",
+      "diet": "Herbivore",
+      "lifespan_years": 23
+    }
+  ]
+  
